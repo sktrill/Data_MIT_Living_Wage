@@ -1,0 +1,14 @@
+Data Sources
+------------------------------------
+[1]
+Percentage of Labour Force in Unions in 2014-2015, US Bureau of Labor Statistics: 
+http://www.bls.gov/news.release/union2.t05.htm
+
+[2]
+List of Current Governors, National Governors Association: http://www.nga.org/cms/governors/bios
+
+[3]
+List of State Legislators, Wikipedia: https://en.wikipedia.org/wiki/List_of_United_States_state_legislatures
+
+[4]
+List of Right to Work stats, Wikipedia: https://en.wikipedia.org/wiki/Right-to-work_law
